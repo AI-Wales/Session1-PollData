@@ -1,0 +1,25 @@
+Subject,Group,Sheet1,Sheet2
+Ethics,Eithics,2,1
+Data Science,DS,2,2
+Data Storage,DS,4,
+Data Viz,DS,2,
+Data Analytics,DS,6,3
+Data Mining,DS,3,3
+IoT,IoT,1,
+Robotics,Robitics,1,1
+NLP,NLP,5,3
+NLP Clustering,NLP,2,
+NLP Info Extraction,NLP,1,1
+Speech,Speech,1,
+Speech to text,Speech,,
+Text to Speech,Speech,,
+Machine Learning,ML,2,5
+ML Prediction,ML,3,2
+Classiifciation,ML,2,1
+Deep Learning ,ML,9,1
+Knowledge Rep & Reasoning,KRR,5,4
+Expert Systems,ES,1,
+Vision ,Vision,1,
+Vision Image Recogn,Vision,3,2
+Vision Machine Vision ,Vision,1,
+Planning,Planning,1,2
